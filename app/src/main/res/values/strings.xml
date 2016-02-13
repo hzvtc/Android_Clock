@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android _Clock</string>
+    <string name="mClockTime">00:00:00</string>
+</resources>
